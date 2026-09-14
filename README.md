@@ -18,3 +18,4 @@ functools.lru_cache — built-in memoization (no extra library needed)
 
 
 SIMPLE SELL IN PREMIUM ZONE AND BUY IN DISCOUNT ZONE
+jjnjn
